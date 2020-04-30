@@ -1,0 +1,10 @@
+.background {
+    width: 100%;
+   }
+
+.button1 {
+    position: absolute;
+    width: 20%;
+    top:200%;
+    left:42.5%;
+}
